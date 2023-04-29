@@ -105,14 +105,11 @@ else:
 
 ## Output:
 
-i) #
-![image](https://user-images.githubusercontent.com/123623197/235312095-6fb7f2e2-240b-4b8e-9cdd-347404c05d85.png)
+i) ![image](https://user-images.githubusercontent.com/123623197/235312095-6fb7f2e2-240b-4b8e-9cdd-347404c05d85.png)
 
-ii) #
-![image](https://user-images.githubusercontent.com/123623197/235312132-749298b4-eaca-4244-b50c-7e59b964af0a.png)
+ii) ![image](https://user-images.githubusercontent.com/123623197/235312132-749298b4-eaca-4244-b50c-7e59b964af0a.png)
 
-iii) #
-![image](https://user-images.githubusercontent.com/123623197/235312222-671d4c4f-7a53-4e4c-9357-a9fe39b665d6.png)
+iii) ![image](https://user-images.githubusercontent.com/123623197/235312222-671d4c4f-7a53-4e4c-9357-a9fe39b665d6.png)
 
 ## Result
 Thus the linear search and binary search algorithm is implemented using python programming.
